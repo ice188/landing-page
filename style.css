@@ -101,6 +101,7 @@ header, .intro{
     background-color: #ffffff;
     flex: 1;
     margin-right: 15%;
+    margin-left: -20px;
     height:236px;
     width:300px;
     justify-content: center;
@@ -195,7 +196,7 @@ header a{
     background-color: #3882F6;
     align-items: center;
     justify-content: space-around;
-
+    margin:30px;
 }
 
 .signup-text{
@@ -222,4 +223,9 @@ header a{
     border-color: #F9FAF8;
     font-size: large;
     border-width: 3px;
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
 }
