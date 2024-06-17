@@ -1,3 +1,3 @@
-# odin-recipes
+# landing page
 
-[gith](https://ice188.github.io/odin_projects/)
+[landing_page](https://ice188.github.io/landing_page/)
